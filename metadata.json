@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Town",
+  "description": "Premium full-stack pizza ordering platform with artisan menu, custom sizes, real-time order tracking, authenticated customer profiles, and admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
